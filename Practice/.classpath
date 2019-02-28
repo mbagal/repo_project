@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/manisha.bagal/.m2/repository/com/ecologic/leaseacc/framework/els-appframework/18R3-SNAPSHOT/els-appframework-18R3-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="els-appframework-18R3-SNAPSHOT.jar"/>
+			<attribute name="maven.groupId" value="com.ecologic.leaseacc.framework"/>
+			<attribute name="maven.artifactId" value="els-appframework"/>
+			<attribute name="maven.version" value="18R3-SNAPSHOT"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="/Framework"/>
+	<classpathentry kind="lib" path="C:/Users/manisha.bagal/.m2/repository/org/apache/logging/log4j/log4j-api/2.1/log4j-api-2.1.jar" sourcepath="C:/Users/manisha.bagal/.m2/repository/org/apache/logging/log4j/log4j-api/2.1/log4j-api-2.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.logging.log4j"/>
+			<attribute name="maven.artifactId" value="log4j-api"/>
+			<attribute name="maven.version" value="2.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
